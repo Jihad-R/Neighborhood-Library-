@@ -42,27 +42,27 @@ homeScreen(); }}}
 
 ### Home Screen
 
-![Home Screen](images/home-screen.jpg)
+![Home Screen](images/HomeScreen.png)
 
 ### List All Available Books
 
-![List All Available Books](images/all-hotels.jpg)
+![List All Available Books](images/AvailableBooksScreen.png)
 
 
 ### List All Checked Out Books
 
-![List All Checked Out Books](images/search-by-state.jpg)
-
-### Check out Books
-
-![Check in Books](images/search-by-price.jpg)
+![List All Checked Out Books](images/CheckedOutBooks.png)
 
 ### Check in Books
-![Check in Books](images/search-by-price.jpg)
+![Check in Books](images/CheckInBooks.png)
+
+### Error Messages
+
+![Invalid Input Error Message 1](images/ErrorMessage.png)
 
 ### Error Message
 
-![Invalid Input Error Message](images/add-hotel.jpg)
+![Invalid Input Error Message 2](images/ErrorMessage1.png)
 
 ## How To Use 
 
