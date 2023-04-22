@@ -38,7 +38,7 @@ System.out.println("\nUnrecognised input! Please try again (press 1,2,or 3)");
 homeScreen(); }}}
 ```
 
-## CLI Screens
+## CLI Screens 💻
 
 ### Home Screen
 
@@ -64,7 +64,7 @@ homeScreen(); }}}
 
 ![Invalid Input Error Message](images/add-hotel.jpg)
 
-## How To Use
+## How To Use 
 
 ### Home Screen 
 On the home screen, the user is presented with three options that can be selected by entering the corresponding integer. To view all the available books for checkout, the user should press 1. This will take the user to a screen that displays a list of all the available books. To view all the books that have been checked out and their borrowers, the user should press 2. This will take the user to a screen that displays a list of all the checked-out books and their respective borrowers. If the user wishes to exit the application, they should press 3. The application will not save any changes or progress made during the session upon exiting.
