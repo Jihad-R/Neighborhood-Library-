@@ -60,8 +60,6 @@ homeScreen(); }}}
 
 ![Invalid Input Error Message 1](images/ErrorMessage.png)
 
-### Error Message
-
 ![Invalid Input Error Message 2](images/ErrorMessage1.png)
 
 ## How To Use 📘
