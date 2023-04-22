@@ -65,12 +65,15 @@ homeScreen(); }}}
 ![Invalid Input Error Message](images/add-hotel.jpg)
 
 ## How To Use
+
 ### Home Screen 
-- On the home screen, the user is presented with three options that can be selected by entering the corresponding integer. To view all the available books for checkout, the user should press 1. This will take the user to a screen that displays a list of all the available books. To view all the books that have been checked out and their borrowers, the user should press 2. This will take the user to a screen that displays a list of all the checked-out books and their respective borrowers. If the user wishes to exit the application, they should press 3. The application will not save any changes or progress made during the session upon exiting.
-### All Available Books Screen 
-- 
+On the home screen, the user is presented with three options that can be selected by entering the corresponding integer. To view all the available books for checkout, the user should press 1. This will take the user to a screen that displays a list of all the available books. To view all the books that have been checked out and their borrowers, the user should press 2. This will take the user to a screen that displays a list of all the checked-out books and their respective borrowers. If the user wishes to exit the application, they should press 3. The application will not save any changes or progress made during the session upon exiting.
+
+### All Available Books Screen  
 On this screen, the user can view a list of all the available books for checkout. To check out a book, the user should provide the book's ID, which can be found in the screen's user interface. Once the book ID is entered, the system will verify if the book is available for checkout. If the book is available, the user will be prompted to enter their name. After entering their name, the system will update the book's status to "checked out" and associate it with the borrower's name.
+
 ###  Checked Out Books Screen 
-- This screen provides a list of all the books that have been checked out, along with the names of the borrowers. The user can also choose to return their checked-out books or go back to the home screen. To return a book, the user should provide the book's ID, which was given during the checkout process. The system will then update the book's status accordingly. If a book is returned successfully, it will be removed from the list of checked-out books. It is important to note that only books that have been previously checked out can be returned on this screen.
+This screen provides a list of all the books that have been checked out, along with the names of the borrowers. The user can also choose to return their checked-out books or go back to the home screen. To return a book, the user should provide the book's ID, which was given during the checkout process. The system will then update the book's status accordingly. If a book is returned successfully, it will be removed from the list of checked-out books. It is important to note that only books that have been previously checked out can be returned on this screen.
+
 ### Exiting
-- The user can exit the application from the home screen by pressing 3.
+The user can exit the application from the home screen by pressing 3.
