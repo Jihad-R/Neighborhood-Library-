@@ -76,4 +76,4 @@ On this screen, the user can view a list of all the available books for checkout
 This screen provides a list of all the books that have been checked out, along with the names of the borrowers. The user can also choose to return their checked-out books or go back to the home screen. To return a book, the user should provide the book's ID, which was given during the checkout process. The system will then update the book's status accordingly. If a book is returned successfully, it will be removed from the list of checked-out books. It is important to note that only books that have been previously checked out can be returned on this screen.
 
 ### Exiting
-The user can exit the application from the home screen by pressing 3.
+The user can exit the application from the home screen by pressing 3 and then enter.
