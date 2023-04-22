@@ -7,7 +7,7 @@ Users have the ability to:
 3. List all checked out books
 4. Check in books
 
-## Interesting Code
+## Interesting Code   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 An interesting piece of code was the implementation of this Home Screen's loop. Instead of using a traditional looping mechanism, such as a `while`, `for`, or `do-while` loop, a recursive function was utilized. A recursive function is a function that calls itself repeatedly until a specific condition is met. In this application, the recursive function was used to repeat a certain set of instructions until the user exits the application. This technique may be different but I believe that it gives us the same output as of the traditonal loops. 
 ```java
@@ -64,7 +64,7 @@ homeScreen(); }}}
 
 ![Invalid Input Error Message 2](images/ErrorMessage1.png)
 
-## How To Use 
+## How To Use 📘
 
 ### Home Screen 
 On the home screen, the user is presented with three options that can be selected by entering the corresponding integer. To view all the available books for checkout, the user should press 1. This will take the user to a screen that displays a list of all the available books. To view all the books that have been checked out and their borrowers, the user should press 2. This will take the user to a screen that displays a list of all the checked-out books and their respective borrowers. If the user wishes to exit the application, they should press 3. The application will not save any changes or progress made during the session upon exiting.
